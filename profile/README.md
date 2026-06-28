@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.macupdate.com/products/4307/l/phpwytybj-logo.png?v=1758705573" width="100" alt="TechTool Pro icon"/>
+  <img src="https://www.micromat.com/wp-content/uploads/2024/07/TTP20-256.png" width="100" alt="TechTool Pro icon"/>
 </p>
 <h1 align="center">TechTool Pro — System Diagnostics And Repair</h1>
 <p align="center">Professional-grade system diagnostics and repair — powerful features, native performance underneath.</p>
